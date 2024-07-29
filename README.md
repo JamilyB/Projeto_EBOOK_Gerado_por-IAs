@@ -9,7 +9,7 @@
 
 > ℹ️ **NOTE:** Este é o repositório desenvolvido por Jamily, com foco em fundamentos essenciais do back-end. O ebook foi gerado com a ajuda de ferramentas de IA para realizar o desafio do curso Santander 2024 - Fundamentos de IA para Devs.
 
-[📕 Clique aqui para ler o ebook])
+[📕 Clique aqui para ler o ebook](./output/ebook.pdf)
 
 ## 💻 Tecnologias utilizadas no projeto
     
