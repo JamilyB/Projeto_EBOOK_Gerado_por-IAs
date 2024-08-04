@@ -2,7 +2,7 @@
 ---
 
 <p align="center">
-    <img src="./assets/banner.png" width="400" />
+    <img src="./assets/banner.png" width="600" />
 </p>
 
 # Ebook: Internet Essencial - A Base do Back-End Web
